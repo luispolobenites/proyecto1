@@ -37,7 +37,7 @@ if opcion == "🏠 Home":
     st.image("python_1.png",width=200)
     st.write("**Nombre completo del estudiante**: Luis Anderson Polo Benites")
     st.write("**Nombre del módulo**: Python Fundamentals")
-    st.write("**Información general del estudiante**: ")
+    st.write("**Información general del estudiante**: Analista de Datos")
     st.write("**Año**: 2026")
     st.write("**Breve descripción del proyecto**: Este proyecto representa la primera aplicación práctica del módulo")
     st.write("**Tecnologías utilizadas**: La libreria utilizada hasta el momento es : streamlit")
