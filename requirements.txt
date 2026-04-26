@@ -1,5 +1,5 @@
 streamlit
-pandas>=2.1.4
+pandas
 numpy
-openpyxl
-plotly
+libreria_funciones_proyecto1
+libreria_clases_proyecto1
