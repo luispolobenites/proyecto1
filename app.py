@@ -93,9 +93,9 @@ if opcion == "📋 Ejercicio 1":
     st.write(f"**Saldo Final**: S/ {saldo_final}")
 
     st.subheader("Flujo de Caja")
-    if saldo_final  >= 0:
+    if saldo_final  > 0:
         st.write("Flujo de caja a Favor")
-    else:
+    elif saldo_final  < 0:
         st.write("Flujo de caja en contra")
 
 elif opcion == "📋 Ejercicio 2":
